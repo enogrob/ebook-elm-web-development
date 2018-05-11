@@ -1,0 +1,2 @@
+To get the most out of this book, you should be familiar with HTML, CSS, the way the web works, Bootstrap 4, and MDL.
+Elm installation and setup are covered in Chapter 1, Why is This a Great Time to Learn Elm?, and will be updated in the code that comes with the book in the case of any changes, updates, or errata.
